@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Juraci
+# 👋 Olá, eu sou o Junior
 
 💻 Desenvolvedor apaixonado por tecnologia e soluções criativas  
 🚀 Trabalho com **Python, Flask, Django e JavaScript**  
-🌱 Atualmente estudando **integrações e automações**  
+🌱 Atualmente estudando **Integrações e WebApps**  
 
 ---
 
@@ -11,7 +11,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -26,9 +25,8 @@
 ---
 
 ## 📫 Como me encontrar
-- 📧 **E-mail:** seuemail@exemplo.com  
-- 💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-- 🌐 **Portfólio:** [seusite.com](https://seusite.com)  
+- 📧 **E-mail:** junior.moura80@outlook.com
+- 💼 **LinkedIn:** [linkedin.com/in/seuusuario](www.linkedin.com/in/junior-oliveira-46b8091b5)
 
 ---
 
