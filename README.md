@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Junior
 
 💻 **Desenvolvedor Backend & Entusiasta de Dados**  
-🚀 Especialista em **Python**, **Flask** e **Django**, criando soluções robustas e escaláveis  
+🚀 Estudante em **Python**, **Flask** e **Django**, criando soluções robustas e escaláveis  
 📊 Experiência com **integrações de APIs**, **automação de processos** e **dashboards interativos**  
 🌱 Sempre aprendendo mais sobre **arquitetura de software**, **processamento de dados** e **integrações web**  
 
