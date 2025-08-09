@@ -26,7 +26,7 @@
 
 ## 📫 Como me encontrar
 - 📧 **E-mail:** junior.moura80@outlook.com
-- 💼 **LinkedIn:** [linkedin.com/in/seuusuario](www.linkedin.com/in/junior-oliveira-46b8091b5)
+- 💼 **LinkedIn:** [www.linkedin.com/in/junior-oliveira-46b8091b5](www.linkedin.com/in/junior-oliveira-46b8091b5)
 
 ---
 
