@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Junior
+# Eu sou o Junior Moura!
 
 💻 **Desenvolvedor Backend & Entusiasta de Dados**  
 🚀 Estudante em **Python**, **Flask** e **Django**, criando soluções robustas e escaláveis  
